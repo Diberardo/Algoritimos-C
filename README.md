@@ -1,2 +1,2 @@
 # Exercícios C#
-Exercícios diversificados em C#
+Exercícios diversificados em C# Para Estudantes  
