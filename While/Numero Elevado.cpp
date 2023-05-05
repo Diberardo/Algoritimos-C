@@ -6,10 +6,10 @@
 main()
 
 {
-	int a,b,r,c;
+	int e,b,r,c;
 	
-	printf("\nDigite a base = "); scanf("%d",&a);
-	printf("\nDigite o elevado = "); scanf("%d",&b);
+	printf("\nDigite a base = "); scanf("%d",&b);
+	printf("\nDigite o elevado = "); scanf("%d",&e);
 	
 	c = b;
 	
@@ -18,9 +18,9 @@ main()
 	int i = 1;
 	r = 1;
 	
-	while ( i <= b )
+	while ( i <= e )
 	{
-		r = r * a;
+		r = r * b;
 		i++;
 	}
 	if ( c < 0 ) printf("\nO Resultado = 1/%d",r);
