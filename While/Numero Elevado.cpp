@@ -11,9 +11,9 @@ main()
 	printf("\nDigite a base = "); scanf("%d",&b);
 	printf("\nDigite o elevado = "); scanf("%d",&e);
 	
-	c = b;
+	c = b; // guardar para ver se o numero é negativo;
 	
-	if ( b < 0 ) b = b * ( -1 );
+	if ( b < 0 ) b = b * ( -1 ); // transformar em positivo., perde o valor se for negativo
 	
 	int i = 1;
 	r = 1;
@@ -23,7 +23,7 @@ main()
 		r = r * b;
 		i++;
 	}
-	if ( c < 0 ) printf("\nO Resultado = 1/%d",r);
+	if ( c < 0 ) printf("\nO Resultado = 1/%d",r); // se for negativo aparece 1/r    r = resultado; 
 	else printf("\nO resultado = %d",r);
 	
 }
