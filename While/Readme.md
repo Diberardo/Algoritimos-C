@@ -1,2 +1,2 @@
-Exercicos Ultilizando While
+Exercicos Ultilizando While ( Estrutura de Repetição );
 
