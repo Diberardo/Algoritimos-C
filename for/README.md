@@ -1,2 +1,0 @@
-
-For ( Repetiçao Auto - Controladas )
