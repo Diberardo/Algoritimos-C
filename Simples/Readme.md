@@ -1,1 +1,1 @@
- Exercicos Simples de C# Com Operaçoes;
+O algoritmo é o conjunto de instruções e regras que um programa de computador (mas não apenas ele) possui para executar suas funções. O conceito é bastante simples e mesmo tarefas simples podem ser descritas na forma de algoritmos, até mesmo as do dia a dia.
