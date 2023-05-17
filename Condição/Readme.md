@@ -1,1 +1,1 @@
-Exercícios em C# com Condiçao ( IF && Else );
+O comando if - else. Permite executar alguns comandos se uma condição for verdadeira e outros se ela for falsa. De acordo com a lógica a ser implementada, pode haver necessidade de utilizar não apenas um, mas um conjunto de ifs subordinados uns aos outros. Dizemos que neste caso os comandos devem estar aninhados.
