@@ -1,6 +1,6 @@
+// Faça um programa em que o Usuário digite lados de um retangulo e mostre o perimetro desse retangulo ?
 #include<stdio.h>
-
-int main()
+main()
 {
 	
    float l1, l2, P;
