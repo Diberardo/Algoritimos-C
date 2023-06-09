@@ -13,5 +13,5 @@ int main()
 	
      	P = l1*2 + l2*2;
 	
-	printf("\nseu perimetro do retangulo é = %f" , P);
+	printf("\nseu perimetro do retangulo Ã© = %f" , P);
 }
