@@ -11,7 +11,7 @@ main()
 	int A[a],B[a],i,j;
 	for ( i = 0, j = a - 1; i < a; i++,j--)
 	{
-		printf("\nPosição %d = ",i); scanf("%d",&A[i]);
+		printf("\nPosiÃ§Ã£o %d = ",i); scanf("%d",&A[i]);
 		B[j] = A[i];
 	}
 	printf("\n\n");
