@@ -1,3 +1,6 @@
+// Faça um programa em C para calcula a área de um círculo com base no raio fornecido pelo usuário. O valor de π é definido como uma //constante de ponto flutuante (3.14).
+
+
 #include<stdio.h>
 
 main()
