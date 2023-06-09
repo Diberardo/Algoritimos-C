@@ -14,8 +14,8 @@ main()
         
 		while ( n <= m)
     {
-    if ( n < 2 ) p = 0;           // P é um flag     0 == nao primo  // 1 == primo 
-    else p = 1;                       // tem que iniciar como primo ver se é
+    if ( n < 2 ) p = 0;           // P Ã© um flag     0 == nao primo  // 1 == primo 
+    else p = 1;                       // tem que iniciar como primo ver se Ã©
     
     while ( i <= sqrt(n))
     {
