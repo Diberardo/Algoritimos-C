@@ -1,4 +1,4 @@
-//Faça um programa em C para obter o MDC entre dois números positivosinteiros ae b,  com b >= a. 
+//FaÃ§a um programa em C para obter o MDC entre dois nÃºmeros positivosinteiros ae b,  com b >= a. 
 //Com o teorema de Euclides 
 
 #include<stdio.h>
