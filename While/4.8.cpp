@@ -1,5 +1,5 @@
-//Faça um programa em C para solicitar a entrada de um número positivo x. 
-//Crie uma repetição para somar todos os números ímpares de 1 até x. Mostre o valor da soma obtida.
+//FaÃ§a um programa em C para solicitar a entrada de um nÃºmero positivo x. 
+//Crie uma repetiÃ§Ã£o para somar todos os nÃºmeros Ã­mpares de 1 atÃ© x. Mostre o valor da soma obtida.
 
 #include<stdio.h>
 
