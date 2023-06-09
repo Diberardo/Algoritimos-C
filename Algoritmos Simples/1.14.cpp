@@ -1,5 +1,5 @@
+//Faça um programa que calcula o valor total de uma compra com base no preço de um produto e na quantidade desejada pelo usuário ?
 #include<stdio.h>
-
 main()
 
 {
