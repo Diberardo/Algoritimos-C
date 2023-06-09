@@ -1,4 +1,4 @@
-# Exercícios C#
+# Exercícios C
  Voce Sabe oque é Um Algoritimo?
 <br>
 <br> Você ira aprender:<br>
