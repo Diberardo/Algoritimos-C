@@ -12,5 +12,5 @@ main()
 	  sf = sal - des + 100;
 	  
 	  
-	 printf("\nSeu sal·rio com desconto = %f" , sf); 
+	 printf("\nSeu sal√°rio com desconto = %f" , sf); 
 }
