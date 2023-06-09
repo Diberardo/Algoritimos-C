@@ -1,5 +1,6 @@
+//Um funcionário recebe um salário mensal, que deve ter 15% de desconto e um 
+//acréscimo de 100 reais. Exibir o salário final após os cálculos.
 #include<stdio.h>
-
 main()
 
 {
