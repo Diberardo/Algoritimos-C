@@ -1,5 +1,5 @@
+// Digite um Salário e de um aumento de 10% e mostre o salário final ?
 #include<stdio.h>
-
 main()
 {
 	
