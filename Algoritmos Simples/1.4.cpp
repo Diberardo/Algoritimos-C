@@ -12,7 +12,7 @@ main()
 	
 	IA = AA - AN;
 	ID = IA  * 365;
-	IM = ID / 30; // OU 12 TAMBEM FUNCIONA;
+	IM = ID / 30; // OU 12 que é os messes TAMBEM FUNCIONA;
 	
 	printf("\nSua idade em anos = %d", IA); 
 	printf("\nSua idade em messes = %d", IM);
