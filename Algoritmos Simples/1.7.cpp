@@ -1,7 +1,7 @@
+//Crie um programa em C que solicite ao usuário 2 numeros , e faça o programa  trocar as variáveris. Ex: x=10, y=11 ==> x=11, y=10;
+
 #include<stdio.h>
-
 main()
-
 {
 	int x, y, aux;
 	
@@ -16,7 +16,5 @@ main()
 	  y = aux;
 	  
 	 printf("\nsaida de X =  %d" , x);
-	 printf("\nsaida de Y =  %d" , y);
-	  
-	   
+	 printf("\nsaida de Y =  %d" , y);  
 }
