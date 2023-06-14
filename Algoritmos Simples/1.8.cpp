@@ -1,7 +1,7 @@
+//Crie um programa em C que solicite ao usuário três notas e calcule a média ponderada dessas notas.
+
 #include<stdio.h>
-
 main()
-
 {
 	float N1, N2, N3, M;
 	
@@ -16,8 +16,5 @@ main()
 	 
 	  M = (N1 * 0.2) + (N2 * 0.35) + (N3 * 0.45);
 	 
-	 printf("Sua media ponderada = %3f" , M);
-	 
-	 
-	  
+	 printf("Sua media ponderada = %3f" , M);	 
 }
