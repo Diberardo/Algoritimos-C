@@ -1,9 +1,8 @@
 // Faça a formula de Bhascara, Com o usuario digitando A, B e C ? 
+
 #include<stdio.h>
 #include<math.h>
-
 main()
-
 {
 	float A=0,B=0,C=0,DEL=0,X1=0,Y2=0;          
 	
@@ -16,9 +15,9 @@ main()
 		printf("\ndigite um numero valido\n");  
 	        retun 0;  
 	   }   
-		 else 
-     {
-			   DEL = (B * B) - 4 * A* C;
+	      else 
+             {
+		     DEL = (B * B) - 4 * A* C;
 	   
 	        if (DEL < 0)         
 	          printf("\nNao existe raizs reais!\n");
