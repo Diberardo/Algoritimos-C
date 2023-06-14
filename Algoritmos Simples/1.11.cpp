@@ -1,4 +1,5 @@
-// Crie um programa em C que solicite ao usuário o valor de dois produtos e aplique descontos sobre esses valores. O programa deve calcular e exibir os valores dos produtos com os descontos aplicados. P1 = 8% P2 = 12%
+// Crie um programa em C que solicite ao usuário o valor de dois produtos e aplique descontos sobre esses valores. 
+//O programa deve calcular e exibir os valores dos produtos com os descontos aplicados. P1 = 8% P2 = 12%
 
 #include<stdio.h>
 main()
