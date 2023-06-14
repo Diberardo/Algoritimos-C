@@ -1,4 +1,4 @@
-#include<stdio.h>
+//Crie um programa em C que solicite ao usuário o seu ano de nascimento e o ano atual. Em seguida, o programa deve calcular e exibir a idade da pessoa em anos, meses e dias.
 
 main()
 {
