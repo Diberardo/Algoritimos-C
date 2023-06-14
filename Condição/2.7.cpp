@@ -1,4 +1,5 @@
-//Construa um programa em C para determinar se um número qualquer inteiro é um quadrado perfeito. Antes de calcular, caso o número seja negativo, multiplique-o por -1 ??
+//Construa um programa em C para determinar se um número qualquer inteiro é um quadrado perfeito. 
+//Antes de calcular, caso o número seja negativo, multiplique-o por -1 ??
 
 #include<stdio.h>
 #include<math.h>
