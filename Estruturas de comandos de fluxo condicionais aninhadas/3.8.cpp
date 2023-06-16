@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 main()
-
 {
 	float  N1, N2,M;
 	
