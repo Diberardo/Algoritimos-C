@@ -1,8 +1,4 @@
-//Crie um programa em C que solicite ao usuário o seu ano de nascimento e o ano atual. Em seguida, o programa deve calcular e
-//E xibir a idade da pessoa em anos, meses e dias.
-
 #include<stdio.h>
-
 main()
 {
 	int AA, AN, ID,IM,IA;
