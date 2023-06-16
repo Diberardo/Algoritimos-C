@@ -1,9 +1,5 @@
-//Crie um programa em C que solicite ao usuário o seu Peso e o Altura,
-//Em seguida, o programa deve calcular e exibir o IMC da pessoa. 
 #include<stdio.h>
-
 main()
-
 {
 	float P,A, IMC;
 	
