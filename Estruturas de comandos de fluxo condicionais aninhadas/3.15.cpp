@@ -1,4 +1,3 @@
-//Peça para o usuario digitar um número, e ver se é Negativo, Positivo ou Zero ?
 #include<stdio.h>
 main()
 
