@@ -1,5 +1,3 @@
-// Faça a formula de Bhascara, Com o usuario digitando A, B e C ? 
-
 #include<stdio.h>
 #include<math.h>
 main()
