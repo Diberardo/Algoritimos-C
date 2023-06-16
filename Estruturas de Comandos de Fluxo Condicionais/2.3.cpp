@@ -1,7 +1,3 @@
-// Construa um programa em C para solicitar a entrada de três números inteiros, N1, N2 e 
-//N3. Coloque os valores em ordem numérica crescente, ou seja, o menor em N1, o maior 
-//em N3 e o outro número em N2. Exiba os números N1, N2 e N3.
-
 #include<stdio.h>
 main()
 {
