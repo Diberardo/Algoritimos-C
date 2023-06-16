@@ -1,9 +1,5 @@
-//Façaum  programa Usuário digita um número inteiro entre 10 e 99 do  e inverte suas dezenas e unidades
-// ex: 10 => 01;
 #include<stdio.h>
-
 main()
-
 {
 	int Num ,div, res;
 	
