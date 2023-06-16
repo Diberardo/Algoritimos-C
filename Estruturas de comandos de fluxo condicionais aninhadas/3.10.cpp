@@ -18,7 +18,7 @@ main()
 		p = vb * 1.20; 
 	}
 	else if (ops == 3)
-    {
+        {
     	printf("\nFrango"); 
 		p = vb * 1.15;
 	}
