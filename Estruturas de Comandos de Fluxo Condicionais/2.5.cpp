@@ -1,7 +1,3 @@
-//Um produto tem um desconto sobre seu preço, considerando o dia do mês em 
-//que foi comprado: se for na primeira quinzena, o desconto é de 8%; se for na 
-//segunda quinzena, o desconto é de 6%. Mostre o preço do produto com desconto.
-
 #include<stdio.h>
 main()
 {
