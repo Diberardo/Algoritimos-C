@@ -1,5 +1,3 @@
-// Faça um programa em C para solicitar que o usuário digite um número inteiro qualquer Indique se o número digitado é par ou ímpar 
-
 #include<stdio.h>
 main()
 {
