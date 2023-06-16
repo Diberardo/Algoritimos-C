@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 main()
-
 {
 	int ops; float vb; char sob; float p = 0;
 	
