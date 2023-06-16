@@ -1,7 +1,3 @@
-// Em uma escola, um aluno pode ser reprovado se tiver mais de 25% de faltas em relação 
-//às aulas dadas. Faça um programa em C para solicitar o número de aulas dadas e o 
-//número de faltas do aluno e indique se ele foi aprovado ou não, bem como o percentual de faltas
-
 #include<stdio.h>
 main()
 {
