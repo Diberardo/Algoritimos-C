@@ -1,5 +1,3 @@
-//Crie um programa em C que solicite ao usuário três notas e calcule a média ponderada dessas notas.
-
 #include<stdio.h>
 main()
 {
