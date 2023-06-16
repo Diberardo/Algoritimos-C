@@ -1,4 +1,3 @@
-// Faça um programa em que o Usuário digite lados de um retangulo e mostre o perimetro desse retangulo ?
 #include<stdio.h>
 main()
 {
