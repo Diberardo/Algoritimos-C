@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 main()
-
 {
 	float const liv = 80;
 	float pf; 
@@ -16,7 +14,7 @@ main()
 	  printf("Invalido"); return 0;
 	  }
 	  else if (cod <= 30) 
-      {
+          {
       	printf("\nSuspense"); pf = liv * 0.94;
 	  }
 	  else if (cod <= 45)
@@ -28,7 +26,7 @@ main()
 	  	printf("\nBiografia"); pf = liv * 0.88;
 	  }
 	  else  
-	  	printf("\ndidatico"); pf = liv * 0.85;
+	  	printf("\nDidatico"); pf = liv * 0.85;
 	 
-	    printf ("\npreco final do livro = %.2f ", pf);
+	    printf ("\nPreco final do livro = %.2f ", pf);
 }
