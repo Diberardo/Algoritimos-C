@@ -36,3 +36,22 @@ while (continua == 's')  // enquanto for igual a 's'<br>
 if (contador == 0)<br>
    printf("O bloco NAO foi repetido.");<br>
 else printf("O bloco foi repetido %d vezes", contador);<br>
+
+<h1>Comando do-while</h1>
+O comando do-while permite que um certo trecho de programa seja executado ENQUANTO uma certa condição for verdadeira. A forma do comando do-while é a seguinte:<br>
+do<br>
+{<br>
+// comandos a serem repetidos<br>
+// comandos a serem repetidos<br>
+} while (condição);<br>
+// comandos após o 'do-while'<br>
+
+O funcionamento é o seguinte:<br>
+Executa os comando dentro do bloco do-while;<br>
+Testa a condição;<br>
+Se a  condição for falsa então executa o comando que está logo após o bloco subordinado ao do-while .<br>
+Se  condição for verdadeira então volta ao passo 1.<br>
+O comando do-while deve ser usado sempre que:<br>
+que não soubermos exatamente quantas vezes o laço deve ser repetido;<br>
+o teste deva ser feito depois da execução de um bloco de comandos;<br>
+o bloco de comandos deve se executado pelo menos 1 vez;<br>
