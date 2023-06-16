@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 main()
-
 {
 	float P,A,IMC;
 	 
@@ -14,8 +12,8 @@ main()
 	  else if (IMC < 25) printf("\nNormal");
 	   else if (IMC < 30) printf("\nSobrepeso");
 	    else if (IMC < 35) printf("\nObesidade Leve");
-		 else if (IMC < 40) printf("\nObesidade Moderada");
-		  else if (IMC >= 40) printf("\nObesidade Morbida");
+	     else if (IMC < 40) printf("\nObesidade Moderada");
+	      else if (IMC >= 40) printf("\nObesidade Morbida");
 		  
 	 printf("\nIMC = %.2f",IMC);
 }
