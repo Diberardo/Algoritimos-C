@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 main ()
-
 {
 	const float A = 80.0;
 	float N1,N2,M,FQ,F;
