@@ -1,6 +1,5 @@
 #include<stdio.h> 
-
- int main ()
+int main ()
 {
 	float B, A, Ar;
 	
@@ -12,7 +11,5 @@
       Ar = ( B + A)/2;
 	 
 	 printf("\n Sua area é = %f " ,Ar); 	
-	
-	
 }
 
