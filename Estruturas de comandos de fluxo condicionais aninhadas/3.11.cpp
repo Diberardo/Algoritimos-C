@@ -12,5 +12,4 @@ int main()
 	  else if( A == B || A == C || C == B) printf("\nTriangulo Issoceles");
 	   else printf("\nTriangulo Escaleno");
 	         return 0;
-	 
 }
