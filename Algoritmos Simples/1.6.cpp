@@ -1,6 +1,3 @@
-//Crie um programa em C que solicite ao usuário o seu ano de nascimento. Em seguida, o programa deve calcular e exibir a 
-//idade da pessoa em Dias.
-
 #include<stdio.h>
 main()
 {
