@@ -1,5 +1,3 @@
-//Crie um programa em C que solicite ao usuário 2 numeros , e faça o programa  trocar as variáveris. Ex: x=10, y=11 ==> x=11, y=10;
-
 #include<stdio.h>
 main()
 {
