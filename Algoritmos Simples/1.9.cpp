@@ -1,5 +1,3 @@
-//Faça um programa em C que o usuario digite 2 notas, calcule a Media desse aluno, e Exiba ? 
-
 #include<stdio.h>
 main()
 {
