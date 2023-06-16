@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 main()
-
 {
 	int Sq, M1,N2,N5,N10,N20,N50;
 	
