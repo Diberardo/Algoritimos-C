@@ -1,7 +1,5 @@
 #include<stdio.h>
-
 main()
-
 {
 	int A1,A2,B;
 	do
