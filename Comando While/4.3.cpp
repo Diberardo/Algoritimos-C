@@ -1,10 +1,5 @@
-
-//Faça um programa em C para mostrar o valor de ab, sendo ae bnúmeros inteiros. 
-//Não  deve  ser  usada  a  função pow()da  biblioteca math.h.  Lembre-se  que,  por exemplo, 2^5= 2. 2. 2. 2. 2
 #include<stdio.h>
-
 main()
-
 {
 	int e,b,r,c;
 	
@@ -23,7 +18,7 @@ main()
 		r = r * b;
 		i++;
 	}
-	if ( c < 0 ) printf("\nO Resultado = 1/%d",r); // se for negativo aparece 1/r    r = resultado; 
-	else printf("\nO resultado = %d",r);
+	if ( c < 0 ) printf("\nO Resultado = 1/%d",r); // se o numero digitado for negativo aparece 1/resultado; 
+	else printf("\nO resultado = %d",r); 
 	
 }
