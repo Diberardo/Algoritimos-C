@@ -1,20 +1,17 @@
 #include<stdio.h>
 #include<math.h>
-
 main()
-
 {
 	int i = 2,n,p;
-	
 	do
 	{
-	    printf("\nNumero = "); scanf("%d",&n);
-        }while ( n < 0 );
+	  printf("\nNumero = "); scanf("%d",&n);
+        } while ( n < 0 );
      
     if ( n < 2 ) p = 0;           // P é um flag     0 == nao primo  // 1 == primo 
     else p = 1;                       // tem que iniciar como primo ver se é
     
-    while ( i <= sqrt(n))
+    while ( i <= sqrt(n))     // regra matematica para achar numero primo
     {
     	 if ( n % i == 0 )
     	{
