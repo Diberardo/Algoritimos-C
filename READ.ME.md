@@ -65,3 +65,54 @@ várias comparações usando os operadores >, <, ==, !=, >= e <= ??<br>
      3.14 => Escreva um programa em C que identifique o tipo de polígono com base no número de lados. O programa deve solicitar ao usuário que insira o número de lados. Em seguida, deve verificar se o número de lados é menor que 3. Se for, o programa deve exibir ‘Não é um polígono’. Caso contrário, deve verificar se o número de lados é igual a 3, 4, 5 ou 6 e exibir a mensagem apropriada (‘É um triângulo’, ‘É um retângulo’, ‘É um pentágono’ ou ‘É um hexágono’). Se o número de lados for maior que 6, o programa deve exibir ‘Isso está além de um hexágono’.??<br>
      3.15 => “Escreva um programa em C que verifique se um número é positivo, negativo ou zero??<br>
 
+
+
+
+  <h2>Comando While </h2>
+  </h3>
+      4.1 => Faça um programa em C para solicitar que o usuário digite dois anos, a1 e a2 (com a2 > a1; por exemplo, 1970 e 2010). Mostre quais são os anos bissextos existentes nesse intervalo, considerando a1 e a2.??<br>
+      4.2 => Faça um programa em C para indicar quantos números divisíveis por x (digitado pelo 
+usuário) existem entre dois limites, a e b (também digitados pelo usuário, b > a). 
+Mostre quais são esses números.??<br>
+      4.3 => Faça um programa em C para mostrar o valor de a
+b, sendo a e b números inteiros. Não deve ser usada a função pow() da biblioteca math.h. Lembre-se que, por 
+exemplo, 25 = 2. 2. 2. 2. 2 ??<br>
+      4.4 => dem ao abaixo, mas imprimindo a tabuada ao contrário. Por exemplo: 4 x 10 = 40, 4 x 9 = 36 ... 4 x 1 = 4 <br>
+      4.5 =>  Faça um programa em C para que o usuário digite um número inteiro não negativo para obter a tabuada do número em questão. Por exemplo: 4 x 1 = 4
+      4 x 2 = 8... 4 x 10 = 40 ??<br>
+      4.6 => Faça um programa em C para obter o MDC entre dois números positivos inteiros a e 
+b, com b >= a. Pesquise como utilizar o algoritmo de Euclides para resolver esse 
+problema ??<br>
+      4.7 => Faça um programa em C para resolver o seguinte problema: um ônibus tem x 
+lugares. Toda passagem tem um custo mínimo y (x e y digitados pelo usuário). O
+preço das passagens varia de acordo com a idade dos passageiros:<br>
+a) Abaixo de 7 anos: o preço é y;<br>
+b) Entre 7 e 12 anos: o preço é y acrescido de 10%;<br>
+c) Acima de 12 até 17 anos: o preço é y acrescido de 20%;<br>
+d) Acima de 17 anos: o preço é y acrescido de 30%.<br>
+Mostre quanto foi arrecadado na venda de passagens no total e por faixa etária.??<br>
+      4.8 => Escreva um programa em C que solicite ao usuário que insira um valor inteiro representando um intervalo. O programa deve então imprimir todos os números ímpares dentro do intervalo de 0 até o valor inserido. Por exemplo, se o usuário inserir o valor 10, o programa deve imprimir os números 1, 3, 5, 7 e 9. ??<br>
+      4.9 =>  Faça um programa em C para mostrar se um número qualquer positivo e inteiro é 
+primo ou não. ?? <br>
+      Bonus => Faça um programa em C para resolver o seguinte problema: uma loja fará a venda 
+de 100 produtos. Solicite a entrada do preço desses 100 produtos. Aplique um 
+desconto de 5% para os produtos com preço maior que 150 reais. Ao final, mostre a 
+média dos preços, considerando os eventuais descontos existentes.??<br> 
+
+<h2>For</h2>
+</h3>
+      5.1 => Faça todos os eexercícios do (comando while) utilizando o For ??<br>  
+      5.4 => Faça uma variação mostrando o intervalo de numeros primos, digitado pelo usuario ??<br> 
+
+<h2>Verores</h2>
+</h3> 6.1 => Escreva um programa em C que solicite ao usuário que insira 100 valores de salário. O programa deve calcular a média dos salários e, em seguida, aplicar um reajuste de 12% se a média for maior ou igual a 5000 ou 15% caso contrário. O programa deve imprimir a média dos salários antes do reajuste, os salários reajustados e a média dos salários após o reajuste.?? <br> 
+      6.2 => Escreva um programa em C que solicite ao usuário que insira um valor inteiro positivo a. O programa deve então solicitar ao usuário que insira a valores inteiros, armazenando-os em um vetor A. O programa deve criar um segundo vetor B contendo os valores de A em ordem inversa. Por fim, o programa deve imprimir os valores do vetor B. Por exemplo, se o usuário inserir os valores 1, 2 e 3 para o vetor A, o programa deve imprimir os valores 3, 2 e 1 para o vetor B. ??<br> 
+      6.3 => Escreva um programa em C que solicite ao usuário que insira um valor inteiro positivo n representando o tamanho de um vetor. O programa deve então solicitar ao usuário que insira n valores inteiros, armazenando-os em um vetor v1. O programa deve criar um segundo vetor v2 contendo os valores de v1 em ordem crescente. Por fim, o programa deve imprimir os valores do vetor v2. Por exemplo, se o usuário inserir os valores 3, 1 e 2 para o vetor v1, o programa deve imprimir os valores 1, 2 e 3 para o vetor v2. ( Vetor Ordenado ) ??<br> 
+      6.4 => Escreva um programa em C que solicite ao usuário que insira um valor inteiro n maior ou igual a 5, representando o tamanho de um vetor. O programa deve então solicitar ao usuário que insira n valores inteiros, armazenando-os em um vetor v. O programa deve imprimir os valores do vetor v várias vezes, diminuindo o tamanho do vetor a cada iteração. Por exemplo, se o usuário inserir os valores 1, 2, 3, 4 e 5 para o vetor v, o programa deve imprimir os valores 1, 2, 3, 4 e 5 na primeira iteração, os valores 1, 2, 3 e 4 na segunda iteração e assim por diante até imprimir apenas o valor 1 na última iteração. ??<br> 
+      6.5 => Escreva um programa em C que solicite ao usuário que insira um valor inteiro t maior ou igual a 2, representando o tamanho de um vetor. O programa deve então solicitar ao usuário que insira t valores inteiros, armazenando-os em um vetor v. O programa deve inverter a ordem dos valores no vetor v e, em seguida, imprimir os valores do vetor invertido. Por exemplo, se o usuário inserir os valores 1, 2 e 3 para o vetor v, o programa deve imprimir os valores 3, 2 e 1. ( No mesmo vetor ). ??<br> 
+      6.6 =>  Escreva um programa em C que solicite ao usuário que insira um valor inteiro n maior ou igual a 2, representando o número de cidades. O programa deve então solicitar ao usuário que insira as posições das cidades, armazenando-as em um vetor v. As posições devem ser inseridas em ordem crescente. O programa deve calcular as distâncias entre as cidades e armazená-las no vetor v. Por fim, o programa deve imprimir as posições das cidades e as distâncias entre elas. Por exemplo, se o usuário inserir as posições 1 e 3 para duas cidades, o programa deve imprimir “Cidade 0 = 1 KM = 2 Cidade 2 = 3”. ( numeros pares são as cidades; impares são quantos km sao de cada cidade para outra ) ?? <br> 
+      6.7 => Faça uma matriz, prenchendo com soma de 10; mostre preenchendo por coluna e linha. ?? <br> 
+    
+      
+      
+
