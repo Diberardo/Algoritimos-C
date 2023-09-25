@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # Exercícios em Linguagem C
 
 Bem-vindo ao repositório de exercícios em linguagem C! Este repositório contém uma variedade de exercícios destinados a ajudar você a praticar e aprimorar suas habilidades em programação em C.
