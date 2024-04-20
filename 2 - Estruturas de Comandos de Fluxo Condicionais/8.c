@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+
 main()
 {
 	float A=0,B=0,C=0,DEL=0,X1=0,Y2=0;          
@@ -8,12 +9,12 @@ main()
 	 printf("\ndigite o valor de B = "); scanf("%f",&B);
 	 printf("\ndigite o valor de C = "); scanf("%f", &C);
 	    
-	   if (A<=0 && B<=0 && C<=0)  // Verificar se um dos valores é == 0 
+	if (A<=0 && B<=0 && C<=0)  // Verificar se um dos valores é == 0 
 	   {
 		printf("\ndigite um numero valido\n");  
 	        retun 0;  
 	   }   
-	      else 
+	else 
              {
 		     DEL = (B * B) - 4 * A* C;
 	   
