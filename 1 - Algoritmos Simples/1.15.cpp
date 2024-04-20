@@ -12,4 +12,3 @@ main()
 	 
 	 printf("\n Sua area é = %f " ,Ar); 	
 }
-
