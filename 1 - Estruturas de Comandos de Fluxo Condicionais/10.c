@@ -9,7 +9,6 @@ main()
 	 {
 	 	sf = sal * 1.12;
 	 }
-	 
 	 else
 	    sf = sal *  1.15;
 	    
