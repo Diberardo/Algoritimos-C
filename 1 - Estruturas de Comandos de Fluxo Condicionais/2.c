@@ -16,4 +16,3 @@
        
      printf("\n media = %2f" , M);
  }
- 
