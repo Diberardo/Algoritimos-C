@@ -10,5 +10,4 @@ main()
 	  A = R * R * pi;     
      
 	 printf("\nSeu Area É = %.2f ", A );	// O %.2f é para diminuir a casas decimais depois da virgula
-	
 }
