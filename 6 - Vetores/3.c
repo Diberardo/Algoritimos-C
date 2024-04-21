@@ -11,7 +11,7 @@ main()
 	
 	for ( i = 0; i < n; i++ )
 	{
-		printf("\nPosiçoes %d = ",i); scanf("%d",&v1[i]);
+		printf("\nPosiÃ§oes %d = ",i); scanf("%d",&v1[i]);
 		if ( i == 0 ) maior = v1[0];
 		else if ( v1[i] > maior ) maior = v1[i];
 	}
