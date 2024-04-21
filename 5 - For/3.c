@@ -1,12 +1,9 @@
 #include<stdio.h>
-
 main()
-
 {
 	int A,B,C,r = 1;
-	
-		printf("\nEspoente = "); scanf("%d",&A);
-		printf("\nBase  = "); scanf("%d",&B);
+	printf("\nEspoente = "); scanf("%d",&A);
+	printf("\nBase  = "); scanf("%d",&B);
 	  
 	  C = B;
 	  
