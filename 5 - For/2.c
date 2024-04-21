@@ -16,4 +16,3 @@ main()
 		if ( A % X == 0 ) printf("\n%d E divisivel por %d",A,X);
 	}
 }
-
