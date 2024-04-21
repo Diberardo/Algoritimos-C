@@ -11,11 +11,14 @@ main ()
 	M = (N1 + N2)/2;
 	FQ = 1-F/A;
 	
-	if(M > 6 && FQ > 0.75) printf("\nAprovado");
-	 else if (M < 3 || FQ < 0.75) printf("\nReprovado");
-	  else printf("\nExame");
+	if(M > 6 && FQ > 0.75) 
+		printf("\nAprovado");
+	 else if (M < 3 || FQ < 0.75) 
+		 printf("\nReprovado");
+	  else 
+		 printf("\nExame");
 	  
 	printf("\nMedia = %.2f",M);
 	printf("\nFrequencia = %.2f",FQ);	
-	        return 0;
+	return 0;
 }
