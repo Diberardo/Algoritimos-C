@@ -36,5 +36,5 @@ main()
 		 printf("\n %d nao e primo",n); 
 		 i = 2;         //tem que reajustar a variavel de controle  
 	 }
-    }
+     }
 }
