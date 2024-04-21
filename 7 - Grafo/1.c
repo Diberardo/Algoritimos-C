@@ -108,4 +108,3 @@ void Tipo_de_Grafo ( int *grau, int v )
 	else if (contImp==2) printf("\n\tO grafo e Semieureliano, pois exatamente dois de seus vertices sao de grau impar.");
 	else printf("\n\tO grafo e comum, pois possui mais de dois vertices com grau impar.");
 }
-    
