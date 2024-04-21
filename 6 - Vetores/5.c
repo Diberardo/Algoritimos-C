@@ -9,7 +9,7 @@ main()
 	int v[t];
 	for ( i = 0; i < t; i ++ )
 	{
-		printf("\nPosição %d = ",i); scanf("%d",&v[i]);
+		printf("\nPosiÃ§Ã£o %d = ",i); scanf("%d",&v[i]);
 	}
 	for ( i = 0; i < t/2; i++ )
 	{
