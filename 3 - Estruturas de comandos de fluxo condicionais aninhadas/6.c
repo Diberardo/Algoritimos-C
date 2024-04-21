@@ -11,11 +11,12 @@ main()
       
 	  if (cod <= 0)
 	  {
-	  printf("Invalido"); return 0;
+		  printf("Invalido"); 
+		  return 0;
 	  }
 	  else if (cod <= 30) 
           {
-      	printf("\nSuspense"); pf = liv * 0.94;
+		  printf("\nSuspense"); pf = liv * 0.94;
 	  }
 	  else if (cod <= 45)
 	  {
@@ -28,5 +29,5 @@ main()
 	  else  
 	  	printf("\nDidatico"); pf = liv * 0.85;
 	 
-	    printf ("\nPreco final do livro = %.2f ", pf);
+ printf ("\nPreco final do livro = %.2f ", pf);
 }
