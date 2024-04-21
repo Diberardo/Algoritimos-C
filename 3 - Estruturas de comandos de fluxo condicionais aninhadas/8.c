@@ -8,10 +8,12 @@ main()
 	
 	 M = (N1 + N2) / 2;
 	
-	if (M >= 6) printf("\nAprovado");
-	 else if (M < 3) printf("\nReprovado");
-	  else printf("\nExame");
+	if (M >= 6)
+		printf("\nAprovado");
+	 else if (M < 3) 
+		 printf("\nReprovado");
+	  else 
+		 printf("\nExame");
 	  
 	printf("\nMedia = %.2f", M);
 }
-
