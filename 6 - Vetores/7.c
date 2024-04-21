@@ -20,7 +20,7 @@ main()
       {
       	for ( i = 0; j < 4; j++ )
       	{
-      	    m[i][j] = x;             //faz a operação;
+      	    m[i][j] = x;             //faz a operaÃ§Ã£o;
 			x += 10;
 		}
 	  }
