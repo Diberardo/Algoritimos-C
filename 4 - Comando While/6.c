@@ -16,4 +16,3 @@ main()
     }
 	printf("\n MDC = %d",B);
 }
-
