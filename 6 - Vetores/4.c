@@ -9,7 +9,7 @@ main()
 	int v[n];
 	for ( i = 0; i < n; i++ )
 	{
-		printf("\nPosição %d = ",i); scanf("%d",&v[i]);
+		printf("\nPosiÃ§Ã£o %d = ",i); scanf("%d",&v[i]);
 	}
 	printf("\nVetor Diminuindo\n");
 	for ( i = 0; i < n; i++ )
