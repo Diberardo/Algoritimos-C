@@ -27,7 +27,7 @@ void declara(int v1[], int t)
     {
         do 
         {
-            printf("\nDigite um número = ");
+            printf("\nDigite um nÃºmero = ");
             scanf("%d", &v1[i]);
         } while (v1[i] <= 0 || v1[i] > 9); 
     }
