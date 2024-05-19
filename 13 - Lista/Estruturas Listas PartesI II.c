@@ -6,11 +6,11 @@ typedef struct temp
 	struct temp *prox;			
 }membro;
 
-membro *aux, *topo, *topo2, *novo; // declaraÁ„o de 2 ponteiros "externos"
+membro *aux, *topo, *topo2, *novo; // declara√ß√£o de 2 ponteiros "externos"
 
 main()	
 {
-	//EXERCÕCIO - PARTE 1
+	//EXERC√çCIO - PARTE 1
 	topo = NULL;
 	int i, pos, x;
 	for(i=1; i<=5; i++)
@@ -19,7 +19,7 @@ main()
 		printf("\nDigite a chave do membro %d da pilha1= ",i); 
 		scanf("%d",&aux->chave);
 		if (topo==NULL) aux->prox=NULL;
-		else aux->prox=topo; // o prÛximo do aux aponta para o topo
+		else aux->prox=topo; // o pr√≥ximo do aux aponta para o topo
 		topo = aux;
 	}
 	printf("\nForam alocados os seguintes elementos na pilha1:\n");
@@ -45,7 +45,7 @@ main()
 			}
 		}
 		
-	printf("\n Apos a retirada de 2 elementos, a pilha1 ficou assim: "); // N„o foi solicitado no exercÌcio. Apenas para conferÍncia
+	printf("\n Apos a retirada de 2 elementos, a pilha1 ficou assim: "); // N√£o foi solicitado no exerc√≠cio. Apenas para confer√™ncia
 	aux = topo;
 	for (i=1; i<=3; i++)
 	{
@@ -54,7 +54,7 @@ main()
 	}
 	printf("\nNULL\n");
 	
-	//EXERCÕCIO - PARTE 2
+	//EXERC√çCIO - PARTE 2
 	
 	for(i=1; i<=5; i++)
 	{
@@ -62,7 +62,7 @@ main()
 		printf("\nDigite a chave do membro %d da pilha2 = ",i); 
 		scanf("%d",&aux->chave);
 		if (topo2==NULL) aux->prox=NULL;
-		else aux->prox=topo2; // o prÛximo do aux aponta para o topo2
+		else aux->prox=topo2; // o pr√≥ximo do aux aponta para o topo2
 		topo2 = aux;
 	}
 	
