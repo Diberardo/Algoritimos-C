@@ -6,7 +6,7 @@ typedef struct temp
 	struct temp *prox;			
 }membro;
 
-membro *aux, *topo, *novo; // declaraÁ„o de 2 ponteiros "externos"
+membro *aux, *topo, *novo; // declara√ß√£o de 2 ponteiros "externos"
 
 void mostraEstrutura()
 {
@@ -27,7 +27,7 @@ void insereElementos(int pos, int x)
 	novo->chave = x;
 	if (pos != 1)
 	{
-		for (i=1; i<=pos-2; i++) //pos: posiÁ„o onde ser· inserido o elemento
+		for (i=1; i<=pos-2; i++) //pos: posi√ß√£o onde ser√° inserido o elemento
 		{
 			aux = aux->prox;
 		}
@@ -56,7 +56,7 @@ void excluiElementos(int pos)
 
 main()	
 {
-	//EXERCÕCIO - PARTE 3
+	//EXERC√çCIO - PARTE 3
 	topo = NULL;
 	for(int i=1; i<=5; i++)
 	{
@@ -64,7 +64,7 @@ main()
 		printf("\nDigite a chave do membro %d = ",i); 
 		scanf("%d",&aux->chave);
 		if (topo==NULL) aux->prox=NULL;
-		else aux->prox=topo; // o prÛximo do aux aponta para o topo
+		else aux->prox=topo; // o pr√≥ximo do aux aponta para o topo
 		topo = aux;
 	}
 	printf("\nForam alocados os seguintes elementos:\n");
