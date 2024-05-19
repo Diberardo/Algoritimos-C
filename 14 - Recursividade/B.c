@@ -10,11 +10,11 @@ int main()
     int n;
     do 
 	{
-        printf("\nDigite o Número que você quer ver a sequência:");
+        printf("\nDigite o NÃºmero que vocÃª quer ver a sequÃªncia:");
         scanf("%d", &n);
     } while (n < 0);
 
-    printf("Sequência de Fibonacci até o %d-ésimo termo:\n", n);
+    printf("SequÃªncia de Fibonacci atÃ© o %d-Ã©simo termo:\n", n);
     for (int i = 0; i < n; i++) 
 	{
         printf("%d ", Fib(i));
